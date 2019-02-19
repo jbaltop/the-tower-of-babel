@@ -10,6 +10,10 @@ I solved ["The Tower of Babel" jigsaw puzzle](https://www.ravensburger.us/produc
 
 84 * 60 = 5040
 
+## Time taken
+
+I spend approximately 4-5 hours a day for solving this jigsaw puzzle. Mostly I solved alone and a friend of mine helped me one day.
+
 ## License
 
 Copyright (c) 2019 Hajun Park

@@ -10,6 +10,10 @@ Languages: [[English](README.md)] [[한국어](README.ko.md)]
 
 84 * 60 = 5040
 
+## 걸린 시간
+
+이 퍼즐을 맞추는데 하루에 4-5시간 정도 썼다. 대부분 혼자서 맞췄고, 친구가 도와준 날도 있었다.
+
 ## 라이선스
 
 Copyright (c) 2019 Hajun Park
